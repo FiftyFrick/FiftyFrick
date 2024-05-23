@@ -39,7 +39,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,c,cpp,linkedin,linux,mint,mysql,wordpress)](https://skillicons.dev)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Futere Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Future Skills</b>
 
 [![My Futere Skills](https://skillicons.dev/icons?i=nodejs,kotlin,github,git,figma,docker,bootstrap,angular,coffeescript,kali,laravel,linkedin,nodejs,react,stackoverflow,twitter,ubuntu,visualstudio,vscode,windows)](https://skillicons.dev)
 <!--
