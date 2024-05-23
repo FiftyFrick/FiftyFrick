@@ -40,7 +40,7 @@
 
 <p align="center"> 
   	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=js,php,py,c,cpp,mysql,visualstudio" /> 
+	    <img src="https://skillicons.dev/icons?i=py,php,mysql,js,c,cpp,visualstudio" /> 
 	</a>
 </p>
 
