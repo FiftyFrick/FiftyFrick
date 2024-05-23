@@ -140,3 +140,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+** buenas ideas:
+  - https://shields.io/badges
+  - https://badgen.net/help#generators
+  - https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/7oSkaaa.md?plain=1
