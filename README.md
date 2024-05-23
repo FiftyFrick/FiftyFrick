@@ -92,6 +92,9 @@
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 -->
 
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+
 <!-- ---------------------------------------------------------------------------------------------------- -->
 ## Contact us
 <a href="https://twitter.com/" target="_blank">
