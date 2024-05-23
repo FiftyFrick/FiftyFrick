@@ -3,7 +3,7 @@
 </div>
 <br>
 <p>
-  I am a passionate student at the Carmen Molina Technical Institution in Llano, Corrientes Capital.
+  I am a passionate student at the Technical Institution "Carmen Molina de Llano", Corrientes Capital.
 Driven by the curiosity of programming, I undertook a one-way trip into the world of computing and until now I have discovered new ways of thinking, both my own and those of others.
 </p>
 
