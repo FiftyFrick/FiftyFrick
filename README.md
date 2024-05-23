@@ -3,8 +3,8 @@
 </div>
 <br>
 <p>
-  I am a passionate student at the Technical Institution "Carmen Molina de Llano", Corrientes Capital.
-Driven by the curiosity of programming, I undertook a one-way trip into the world of computing and until now I have discovered new ways of thinking, both my own and those of others.
+  I am a passionate student at the Technical Institution "Carmen Molina de LLano", Corrientes, Corrientes, Argentina.
+  Driven by the curiosity of programming, I undertook a one-way trip into the world of computing and until now I have discovered new ways of thinking, both my own and those of others.
 </p>
 
 <!-- ![FiftyFrick's Stats](https://github-readme-stats.vercel.app/api?username=FiftyFrick&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
