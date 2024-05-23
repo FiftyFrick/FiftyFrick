@@ -1,8 +1,12 @@
-### Hi, I,am Walter  👋 !
+<div align="center">
+<h1 align="center">Hi, I am <a href="https://aristi.dev">Walter</a> 👋</h1>
+</div>
+<br>
+<p>
+  I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+</p>
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
-![FiftyFrick's Stats](https://github-readme-stats.vercel.app/api?username=FiftyFrick&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!-- ![FiftyFrick's Stats](https://github-readme-stats.vercel.app/api?username=FiftyFrick&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
