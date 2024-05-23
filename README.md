@@ -4,6 +4,16 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 ![FiftyFrick's Stats](https://github-readme-stats.vercel.app/api?username=FiftyFrick&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/FiftyFrick">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FiftyFrick&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FiftyFrick&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
