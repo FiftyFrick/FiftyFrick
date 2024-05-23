@@ -3,7 +3,8 @@
 </div>
 <br>
 <p>
-  I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+  I am a passionate student at the Carmen Molina Technical Institution in Llano, Corrientes Capital.
+Driven by the curiosity of programming, I undertook a one-way trip into the world of computing and until now I have discovered new ways of thinking, both my own and those of others.
 </p>
 
 <!-- ![FiftyFrick's Stats](https://github-readme-stats.vercel.app/api?username=FiftyFrick&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
