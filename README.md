@@ -6,13 +6,6 @@
   I am a passionate student at the Technical Institution "Carmen Molina de LLano", Corrientes, Corrientes, Argentina.
   Driven by the curiosity of programming, I undertook a one-way trip into the world of computing and until now I have discovered new ways of thinking, both my own and those of others.
 </p>
-<!--
-## 🚀 About Me
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
--->
 
 <!-- ![FiftyFrick's Stats](https://github-readme-stats.vercel.app/api?username=FiftyFrick&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
 
@@ -25,12 +18,6 @@
 </a>
 <!-- ![FiftyFrick's Stats](https://github-readme-stats.vercel.app/api?username=FiftyFrick&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
 </p>
-
-<!--
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
--->
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -78,24 +65,12 @@
 </p>
 -->
 <!-- ---------------------------------------------------------------------------------------------------- -->
-<!--
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
--->
-<!--
-## 📬 Get in Touch
-
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
--->
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
 
 <!-- ---------------------------------------------------------------------------------------------------- -->
+
 ## Contact us
 <a href="https://twitter.com/" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -141,19 +116,8 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 </div>
 </details>
 <!-- ---------------------------------------------------------------------------------------------------- -->
-<!--
-**FiftyFrick/FiftyFrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <!-- ---------------------------------------------------------------------------------------------------- -->
+
+<!-- ---------------------------------------------------------------------------------------------------- -->
 ### buenas ideas:
 <lu>
 	<li>
@@ -179,4 +143,5 @@ Here are some ideas to get you started:
         }
     </style>
 
-<img src="https://github.com/FiftyFrick/FiftyFrick/blob/circleci-project-setup/wp7742996-4k-vertical-wallpapers.jpg" width="50%" class="right-aligned">
+<img src="https://github.com/FiftyFrick/FiftyFrick/blob/circleci-project-setup/wp7742996-4k-vertical-wallpapers.jpg" width="50%"  class="right-aligned" float= "right"
+            >
