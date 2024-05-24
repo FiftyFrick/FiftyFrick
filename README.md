@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I am <a href="https://aristi.dev">Walter</a> 👋</h1>
+<h1 align="center">Hi, I am <a href="">Walter</a> 👋</h1>
 </div>
 <br>
 <p>
@@ -31,7 +31,7 @@
 
 <p align="center"> 
   	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=py,php,mysql,js,c,cpp,visualstudio" /> 
+	    <img src="https://skillicons.dev/icons?i=py,php,mysql,js,cpp,visualstudio" /> 
 	</a>
 </p>
 
