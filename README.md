@@ -57,6 +57,16 @@
 
 <br>
 
+
+<!-- ---------------------------------------------------------------------------------------------------- -->
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+
+
+<!-- ---------------------------------------------------------------------------------------------------- -->
+</td>
+<td>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Future Skills</b>
 
 [![My Futere Skills](https://skillicons.dev/icons?i=nodejs,angular,laravel,react,kali,kotlin,docker)](https://skillicons.dev)
@@ -68,13 +78,10 @@
   </a>
 </p>
 -->
+</td>
+</tr>
+</table>
 <!-- ---------------------------------------------------------------------------------------------------- -->
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
-
-<!-- ---------------------------------------------------------------------------------------------------- -->
-
 ## Contact us
 <a href="https://twitter.com/" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -120,8 +127,6 @@
 </div>
 </details>
 <!-- ---------------------------------------------------------------------------------------------------- -->
-
-<!-- ---------------------------------------------------------------------------------------------------- -->
 ### buenas ideas:
 <lu>
 	<li>
@@ -140,12 +145,7 @@
   		-  https://gprm.itsvg.in/
 	</li>
 </lu>
-	    </td>
-		
-<td>
+
+<!--
 <img src="https://github.com/FiftyFrick/FiftyFrick/blob/circleci-project-setup/wp7742996-4k-vertical-wallpapers.jpg">
-	    </td>
-        </tr>
-</table>
-
-
+-->
