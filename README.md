@@ -177,4 +177,4 @@ Here are some ideas to get you started:
 
 wp7742996-4k-vertical-wallpapers.jpg
 
-<img src="https://github.com/FiftyFrick/FiftyFrick/wp7742996-4k-vertical-wallpapers.jpg">
+<img src="https://github.com/FiftyFrick/FiftyFrick/blob/circleci-project-setup/wp7742996-4k-vertical-wallpapers.jpg">
