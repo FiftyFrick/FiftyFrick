@@ -136,12 +136,5 @@
   		-  https://gprm.itsvg.in/
 	</li>
 </lu>
-    <style>
-        .right-aligned {
-            float: right;
-            margin-left: 20px;
-        }
-    </style>
 
-<img src="https://github.com/FiftyFrick/FiftyFrick/blob/circleci-project-setup/wp7742996-4k-vertical-wallpapers.jpg" width="50%"  class="right-aligned" float= "right"
-            >
+<img src="https://github.com/FiftyFrick/FiftyFrick/blob/circleci-project-setup/wp7742996-4k-vertical-wallpapers.jpg" width="50%" float= "right">
