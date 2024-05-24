@@ -72,9 +72,9 @@
 
 [![My Futere Skills](https://skillicons.dev/icons?i=nodejs,angular,laravel,react,kali,kotlin,docker)](https://skillicons.dev)
 
-!--
-<img src="https://github.com/FiftyFrick/FiftyFrick/blob/circleci-project-setup/wp7742996-4k-vertical-wallpapers.jpg" width="60%" >
--->
+
+<img src="https://github.com/FiftyFrick/FiftyFrick/blob/circleci-project-setup/wp7742996-4k-vertical-wallpapers.jpg" width="200px" >
+
 
 <!--
 <p align="center">
