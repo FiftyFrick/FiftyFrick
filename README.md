@@ -102,7 +102,9 @@
 <a href="mailto:Walter-541@hotmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
-<!-- www.linkedin.com/in/walter-i-rguez96 -->
+<!-- www.linkedin.com/in/walter-i-rguez96 
+fiftywalter96 discord 
+-->
 
 <br>
 <!--
