@@ -105,7 +105,7 @@
 <!-- www.linkedin.com/in/walter-i-rguez96 
 fiftywalter96 discord 
 -->
-<h1 align="center">visit my personal web hosting to see my portfolio <a href="http://myhostwalter.ddns.net">myhostwalter.ddns.net</a> 👋</h1>
+<h1 align="center">visit my personal web hosting to see my portfolio <a href="https://myhostwalter.ddns.net">myhostwalter.ddns.net</a> 👋</h1>
 <br>
 <!--
  <p align="center"> 
