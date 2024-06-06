@@ -93,14 +93,35 @@
 
 ## Contact us
 
-<a href="https://twitter.com/" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-
 <a href="https://github.com/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?color=0879D7&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
+<!--
+<a href="https://twitter.com/" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+-->
+<a href="https://telegram.org/" target="_blank">
+  <img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?color=0FC6E3&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://discord.com/" target="_blank">
+  <img src="https://img.shields.io/badge/discord-%237289DA.svg?color=4BA2E1&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://outlook.live.com/" target="_blank">
+  <img src="https://img.shields.io/badge/outlook-%230078D4.svg?color=1475C1&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" style="margin-bottom: 5px;" />
+</a>
+
+
+
+
 <a href="mailto:Walter-541@hotmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+
+-----------------------------
 
 <!-- www.linkedin.com/in/walter-i-rguez96 
 fiftywalter96 discord 
