@@ -170,8 +170,8 @@ fiftywalter96 discord
     	<a href="https://github.com/FiftyFrick/hostDirectoryTemplate">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FiftyFrick&repo=hostDirectoryTemplate&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/FiftyFrick/FiftyFrick">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FiftyFrick&repo=FiftyFrick&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/FiftyFrick/Portafolio_Web">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FiftyFrick&repo=Portafolio_Web&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
