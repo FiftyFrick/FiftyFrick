@@ -142,9 +142,9 @@
 fiftywalter96 discord 
 -->
 
-
+<!--
 <h1 align="center">visit my personal web hosting to see my portfolio <a href="myhostwalter.ddns.net">myhostwalter.ddns.net</a> 👋</h1>
-
+-->
 
 <br>
 <!--
